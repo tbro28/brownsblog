@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/brownsblog/post/flyboard-and-jetovator-in-lake-sammamish/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/brownsblog/post/helicopter-hughes-500-with-no-doors-tour-over-kauai/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -76,6 +81,12 @@
   
   <url>
     <loc>https://tbro28.github.io/brownsblog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/brownsblog/tags/flyboard/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
