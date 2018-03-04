@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://tbro28.github.io/brownsblog/"
 theme           = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -37,7 +37,7 @@ canonifyurls    = true
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Seattle, WA"
   authorWebsite = "https://tbro28.github.io"
-  authorDescription = "Your description here"
+  authorDescription = "Have the attitude and honest belief that if you give it your all it will be done."
 
   pageNotFoundTitle = "404 - Page not found"
 

@@ -14,6 +14,7 @@ categories = [
 ]
 nomenu = "main"
 image= "img/tags.jpg"
+draft = true
 +++
 
 ## Step 1. Install Hugo

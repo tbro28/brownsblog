@@ -13,13 +13,16 @@ weight = 111
 
 ![](/img/mesmall.jpg)
 
-I have always been a fan of new technology and how it can shape the future.
-
-#### [TECHNOLOGY LEADERSHIP IN TEST](https://tbro28.github.io/tlt/)
-Kind of makes sense considering my career field.
+I am a huge fan of new technology and how it can shape the future.
 
 #### [PROFESSIONAL SITE](https://tbro28.github.io/prof/)
 Basically my LinkedIn profile in another form.
 
+#### <a href="/Tim_Brown_Resume-2018.pdf">Resume (PDF Format)</a>  
+PDF format of my resume.  
+
 #### [ONLINE RESUME](https://tbro28.github.io/resume/)
 Condensed version of my professional site.
+
+#### [TECHNOLOGY LEADERSHIP IN TEST](https://tbro28.github.io/tlt/)
+Kind of makes sense considering my career field.
