@@ -74,6 +74,12 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/brownsblog/categories/air/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/brownsblog/tags/bungee/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -81,6 +87,7 @@
   
   <url>
     <loc>https://tbro28.github.io/brownsblog/categories/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,19 +104,13 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/brownsblog/categories/ground/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/brownsblog/tags/hawaii/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/heights/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/helicopter/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -145,12 +146,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/scuba-diving/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/brownsblog/tags/segway/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -169,12 +164,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/snowboarding/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/brownsblog/tags/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -187,13 +176,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/tours/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tbro28.github.io/brownsblog/categories/wakeboarding/</loc>
+    <loc>https://tbro28.github.io/brownsblog/tags/wakeboarding/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -205,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/brownsblog/tags/water/</loc>
+    <loc>https://tbro28.github.io/brownsblog/categories/water/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
