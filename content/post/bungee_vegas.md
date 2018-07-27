@@ -12,7 +12,7 @@ weight: 10
 image: img/bungeevegas.png
 authorAvatar: hugo-logo.png
 tags: ["bungee", "nevada"]
-categories: ["Heights"]
+categories: ["air"]
 ---
 
 It’s a shame that this place no longer exists.  I believe the tower is still there, but hasn't been operational for a long time.

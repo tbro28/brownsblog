@@ -12,7 +12,7 @@ weight: 10
 image: img/helikona5.png
 authorAvatar: hugo-logo.png
 tags: ["tour", "hawaii"]
-categories: ["Helicopter"]
+categories: ["air"]
 ---
 
 No doors is the way to go! Just way more fun and no reflections on camera shots too.  

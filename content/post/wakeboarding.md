@@ -11,8 +11,8 @@ title: Wakeboarding on the Willamette
 weight: 10
 image: img/wakeboaring.png
 authorAvatar: hugo-logo.png
-tags: ["water", "oregon"]
-categories: ["wakeboarding"]
+tags: ["wakeboarding", "oregon"]
+categories: ["water"]
 ---
 
 Clouds couldn't stop a good time.

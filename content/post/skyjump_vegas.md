@@ -12,7 +12,7 @@ weight: 10
 image: img/skyjumpvegas.png
 authorAvatar: hugo-logo.png
 tags: ["skyjump", "nevada"]
-categories: ["Heights"]
+categories: ["air"]
 ---
 
 For being way higher than the bungee jumps that I’ve done, this really wasn’t bad at all. It’s a nice almost “gentle” fall to the ground below.  

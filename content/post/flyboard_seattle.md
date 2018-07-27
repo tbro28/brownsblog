@@ -11,8 +11,8 @@ title: Flyboard and Jetovator in Lake Sammamish
 weight: 10
 image: img/flyboard.png
 authorAvatar: hugo-logo.png
-tags: ["flyboard", "washington", "water"]
-categories: ["Tours"]
+tags: ["flyboard", "washington"]
+categories: ["water"]
 ---
 
 I did the flyboard and jetovator in Lake Sammamish. Way more difficult, than it looks.  

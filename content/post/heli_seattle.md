@@ -12,7 +12,7 @@ weight: 10
 image: img/helirideseattle.png
 authorAvatar: hugo-logo.png
 tags: ["tour", "washington"]
-categories: ["Helicopter"]
+categories: ["air"]
 ---
 
 After 9 years of living in Seattle I thought I had seen the whole city. I was wrong.  

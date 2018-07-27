@@ -11,8 +11,8 @@ title: SCUBA DIVING KONA HAWAII MANTA RAY NIGHT DIVE 2003
 weight: 10
 image: img/scubahawaiinight6.png
 authorAvatar: hugo-logo.png
-tags: ["water", "scuba", "manta ray", "hawaii"]
-categories: ["Scuba Diving"]
+tags: ["scuba", "manta ray", "hawaii"]
+categories: ["water"]
 ---
 
 Only one Manta Ray showed up, but that is better than none!  

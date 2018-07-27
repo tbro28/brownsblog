@@ -12,7 +12,7 @@ weight: 10
 image: img/boardingsummit.png
 authorAvatar: hugo-logo.png
 tags: ["snow", "washington"]
-categories: ["Snowboarding"]
+categories: ["ground"]
 ---
 
 Playing in the clouds on a mountain covered with snow.    

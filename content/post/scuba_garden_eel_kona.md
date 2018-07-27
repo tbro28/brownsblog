@@ -11,8 +11,8 @@ title: SCUBA DIVING KONA HAWAII GARDEN EEL COVE 2003
 weight: 10
 image: img/ScubaHawaiiEelCove3.png
 authorAvatar: hugo-logo.png
-tags: ["water", "scuba", "garden eel", "hawaii"]
-categories: ["Scuba Diving"]
+tags: ["scuba", "garden eel", "hawaii"]
+categories: ["water"]
 ---
 
 Went with Jack’s Diving Locker and it was a blast!

@@ -12,7 +12,7 @@ weight: 10
 image: img/BungeeWA.png
 authorAvatar: hugo-logo.png
 tags: ["bungee", "washington"]
-categories: ["Heights"]
+categories: ["air"]
 ---
 
 With GoPros around now this video footage would be a lot better.  

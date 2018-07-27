@@ -12,7 +12,7 @@ weight: 10
 image: img/segwayseattle2.png
 authorAvatar: hugo-logo.png
 tags: ["segway", "washington", "tour"]
-categories: ["Tours"]
+categories: ["ground"]
 ---
 
 These were way easier and way more fun to ride than I had expected. Of course it rained on us towards the end.  
